@@ -26,8 +26,8 @@ ENV/
 env/
 .venv
 
-# IDE
-.vscode/
+# Agents
+.agents/
 .idea/
 *.swp
 *.swo
